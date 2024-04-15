@@ -1,8 +1,8 @@
 # sakshi
 This is my first repository
 <br>
-Author-Teju
+Author-Tejtik
 <br>
-life is much beutiful
+life is much beutiful than pratik
 <br>
 teja's lifeline is pratik
