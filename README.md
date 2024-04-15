@@ -1,8 +1,4 @@
 # sakshi
-This is my first repository
+This is my first vedapan
 <br>
-Author-Tejtik
-<br>
-life is much beutiful than pratik
-<br>
-teja's lifeline is pratik
+Author-Teja
