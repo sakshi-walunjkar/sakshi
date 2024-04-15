@@ -1,8 +1,5 @@
 # sakshi
-This is my first vedapan
+This is my first project
 <br>
 Author-Teja
-<br>
-price-pratik
-<br>
-title-#Tejtik
+
